@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              Michael Chun
+email:              mchun228@gmail.com
+description:        test
+author:             Michael Chun
+baseurl:            ""
+url:                "https://mchun228.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    github.com/mchun228 
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username: linkedin.com/in/mchun228
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
